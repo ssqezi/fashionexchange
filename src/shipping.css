@@ -1,0 +1,5 @@
+.shipment-action{display:flex;align-items:flex-end;gap:12px;flex-wrap:wrap;justify-content:flex-end}
+.tracking-field{display:flex;flex-direction:column;gap:6px;font-size:10px;font-weight:600;color:#655770}
+.tracking-field input{width:210px;max-width:100%;height:39px;padding:0 11px;border:1px solid #e1dfe7;border-radius:8px;background:#fff;color:#29282f}
+.tracking-saved{color:#655770;font-weight:600;overflow-wrap:anywhere}
+@media(max-width:700px){.shipment-action{width:100%;justify-content:stretch}.tracking-field{flex:1;min-width:180px}.tracking-field input{width:100%}}

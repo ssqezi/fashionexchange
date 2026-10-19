@@ -1,0 +1,7 @@
+.hold-suspend{position:relative;isolation:isolate;overflow:hidden;min-width:122px;touch-action:none}
+.hold-progress{position:absolute;inset:0 auto 0 0;width:0;background:var(--purple-soft);z-index:0}
+.hold-suspend.holding .hold-progress{width:100%;transition:width 1s linear}
+.hold-label{position:relative;z-index:1}
+.suspended-row{background:#faf9fc}
+.suspended-row .owner-chip{color:#777180}
+@media(prefers-reduced-motion:reduce){.hold-suspend.holding .hold-progress{transition:none}}

@@ -1,0 +1,18 @@
+Fashion Exchange Workspace Accounts
+
+All accounts password: qwertymarket123
+
+1. Administrator (Admin):
+   Login: Admin
+   Password: qwertymarket123
+   Full permissions: overview, inventory, shipping queue, team management.
+
+2. Lister:
+   Login: arseniy@fashionexchange.local
+   Password: qwertymarket123
+   Permissions: inventory catalog, item creation, claim items, edit owned items.
+
+3. Shipper:
+   Login: shipping@fashionexchange.local
+   Password: qwertymarket123
+   Permissions: shipping fulfillment queue, tracking numbers, read inventory.
